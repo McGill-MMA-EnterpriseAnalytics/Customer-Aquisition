@@ -1,4 +1,4 @@
-# Customer-Aquisition Project
+# <font color=#FF0000>Customer-Aquisition Project</font>
 
 ## Project Background Background - What is this file?
 
@@ -7,7 +7,7 @@ This is a Machine Learning (ML) complete lifecycle project for Enterprise Data S
 
 ## Framing the Problem
 
-### Context
+### *Context*
 
 We, the team are an internal data team for a company that operates a chain of convenient stores. Although we are successful we need to grow internataionally as the US market is saturated. The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act. 
 
@@ -16,17 +16,20 @@ We, the team are an internal data team for a company that operates a chain of co
 |:--|:--|
 |<img src="https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png" > <br> <br>  Heatmap of coneneient stores accross US. Convient stores centered around population. Darker indicates higher density, lighter indicates lower desnisty.|<img src="https://user-images.githubusercontent.com/91097605/218147383-16e035a9-c555-431c-9c8b-d9bb70e428ed.png"> <br><br> Heat map of US population distribution. Demonstrating overlap between conienvce stores and population.|
 
- We have a new CEO who wants to open 300 new locations. Although we have historically been based out of the US we want to expand into Canada. We will assume the markets are similar enough that the US data is directly applicable to the Canadian market. The new CEO is very risk-averse and wants to invest slowly over time, opting to build a baseline customer base by going after low CAC customers
+
 
 
 ### Problem Statment
 
 
+ We have a new CEO who wants to open 300 new locations. Although we have historically been based out of the US we want to expand into Canada. We will assume the markets are similar enough that the US data is directly applicable to the Canadian market. The new CEO is very risk-averse and wants to invest slowly over time, opting to build a baseline customer base by going after low CAC customers
+
 
 ### Buisness Value
-As an internal data team in the convenient store business our primary goal is to help grow sustainably. We grow sustainably through two primary means. First, we grow our footprint or number of stores. This then allows us to gain additional market share and gain customers. Second, we increase our profit by reinvesting in the business or increasing shareholder equity. Both routes have various costs and risks. Our mandate is to open 300 new stores to increase business. The challenges of opening a new store are finding customers and ensuring profitability. Since the new stores are in a new geography, we have unique risks and challenges.  
 
-The data team will help reduce risks by creating accurate customer predictions. By knowing how many customers we can acquire and their costs, we can best optimize our costs and supply chain. The key risk is balancing the costs and the revenue. Our CEO is risk-averse and wants to invest slowly over time. Therefore, we can analyze the data in ways to develop and build a baseline customer base. We will investigate the customers and promotions to examine the key effect of media advertising on customer acquisition costs. The data science models we develop will give indications and the factors needed to go after low CAC customers. After successfully predicting we can implement business strategies to go after the right customers, reduce costs and successfully launch in Canada. 
+The convince store industry. It has become saturated, leaving little room to grow. For instance, the National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to compete in. Therefore, to continue our growth and profitability we must expand internationally.
+
+The data team will help reduce risks by laying a foundation of future success by creating accurate customer predictions. By knowing how many customers we can acquire and their costs, we can best optimize our costs and supply chain. The key risk is balancing the costs and the revenue. Our CEO is risk-averse and wants to invest slowly over time. Therefore, we can analyze the data in ways to develop and build a baseline customer base. We will investigate the customers and promotions to examine the key effect of media advertising on customer acquisition costs. The data science models we develop will give indications and the factors needed to go after low CAC customers. After successfully predicting we can implement business strategies to go after the right customers, reduce costs and successfully launch in Canada. 
 
 ## Data aquisition
 
