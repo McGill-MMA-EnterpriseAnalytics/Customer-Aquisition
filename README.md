@@ -4,6 +4,8 @@
 
 This is a Machine Learning (ML) complete lifecycle project for Enterprise Data Science & ML Production (INSY 695). As part of this task we are a team of 7 who are tasked with completing an ML project on a dataset of our choice. There are 10 discrete steps in any data science liefecyle (details in appendix A). **In short this Github Repo is our cumulative work to accomplish a data science project from start to end.**
 
+Each role has their own brach where their documentation lives.
+
 
 ## Framing the Problem
 
