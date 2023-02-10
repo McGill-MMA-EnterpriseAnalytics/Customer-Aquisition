@@ -22,7 +22,7 @@ Given the competitive landscape and saturated market, our new CEO who wants to o
 
 <font size=0.5></font>
 
-<img src="https://user-images.githubusercontent.com/91097605/218141585-85d08804-ba60-4f3b-902d-658e57b75afd.png" width=400> The National Association of Convenience Stores (NACS) demonstrates that the US is a competitive market. Published January 2023
+<center><img src="https://user-images.githubusercontent.com/91097605/218141585-85d08804-ba60-4f3b-902d-658e57b75afd.png" width=400> </center><br> The National Association of Convenience Stores (NACS) demonstrates that the US is a competitive market. Published January 2023
 
 
 ### *Buisness Value*
