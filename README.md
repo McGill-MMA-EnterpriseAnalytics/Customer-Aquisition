@@ -14,7 +14,7 @@ We, the team are an internal data team for a company that operates a chain of co
 <img src="https://user-images.githubusercontent.com/91097605/218141585-85d08804-ba60-4f3b-902d-658e57b75afd.png"> NACS Keyfindings from their factbook. Published January 2023
 |||
 |:--|:--|
-|<img src="https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png" width=200 > <br> <br>  Heatmap of coneneient stores accross US. Convient stores centered around population. Darker indicates higher density, lighter indicates lower desnisty.|<img src="https://user-images.githubusercontent.com/91097605/218147383-16e035a9-c555-431c-9c8b-d9bb70e428ed.png" width=200> <br><br> Heat map of US population distribution. Demonstrating overlap between conienvce stores and population.|
+|<img src="https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png" width=400 > <br> <br>  Heatmap of coneneient stores accross US. Convient stores centered around population. Darker indicates higher density, lighter indicates lower desnisty.|<img src="https://user-images.githubusercontent.com/91097605/218147383-16e035a9-c555-431c-9c8b-d9bb70e428ed.png" width=400> <br><br> Heat map of US population distribution. Demonstrating overlap between conienvce stores and population.|
 
 
 
