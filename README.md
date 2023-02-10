@@ -4,6 +4,6 @@
  
 |   |Data Analyst |Data Scientist |Business Analyst |Product Manager |Project Manager |
 |:--|:--|:--|:--|:--|:---|
-|Responsabilities:|Data Cleanup \Data vizualization\ Data Metrics |Data Modelling\ Model Correlation |Interpretation of results \ Data vizualization |Market expert \ Strategy Report\ Slide  |Keep track of progress \ Meeting organization \  Check on work flow Deliverables \ Setup Github |
+|Responsabilities:|Data Cleanup \ Data vizualization &nbsp; Data Metrics |Data Modelling\ Model Correlation |Interpretation of results \ Data vizualization |Market expert \ Strategy Report\ Slide  |Keep track of progress \ Meeting organization \  Check on work flow Deliverables \ Setup Github |
 |Lead|Priyanka |Raman |Lucie |Julie |Emery |
 |Team|Jeongho \Priyanka |Jeongho\ Bennett\ Raman |Lucie\ Bennett \Julie \Emery |Lucie\ Julie\ Emery \Raman|Emery\ Julie|
