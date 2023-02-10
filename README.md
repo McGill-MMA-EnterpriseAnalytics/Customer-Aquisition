@@ -9,14 +9,14 @@ This is a Machine Learning (ML) complete lifecycle project for Enterprise Data S
 
 ### *Context*
 
-We, the team are an internal data team for a company that operates a chain of convenient stores. Although we are successful we need to grow internataionally as the US market is saturated. The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act. 
+
+Advertisements are everywhere. In our post-pandemic world ads invade our physical and virtual space. Simultaneously customers’ attention span has decreased. In this race for attention, the media happens to play a critical role. We are an internal data science team for a convience stroe buisness. Our chain of convenience stores suffered from this crisis and fierce competition. To recover from it, our new CEO wants to open 300 new locations and extend media coverage. Although we have historically been based out of the US we want to expand into Canada. We will assume the markets are similar enough that the US data is directly applicable to the Canadian market. 
+
+As the data team within the convience store, we will work to identify growth drivers and better approaches to address our audience with respect to media campaign efficiency. Therefore, our mission will be three-pronged: identify profitable customers’ segments to target, minimize the cost of acquisition of customers (CAC), and analyze the results of our loyalty program. 
+
+<font size=0.5>The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act.</font>
 
 <img src="https://user-images.githubusercontent.com/91097605/218141585-85d08804-ba60-4f3b-902d-658e57b75afd.png"> NACS Keyfindings from their factbook. Published January 2023
-|||
-|:--|:--|
-|<img src="https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png" width=400 > <br> <br>  Heatmap of coneneient stores accross US. Convient stores centered around population. Darker indicates higher density, lighter indicates lower desnisty.|<img src="https://user-images.githubusercontent.com/91097605/218147383-16e035a9-c555-431c-9c8b-d9bb70e428ed.png" width=400> <br><br> Heat map of US population distribution. Demonstrating overlap between conienvce stores and population.|
-
-
 
 
 ### Problem Statment
@@ -27,9 +27,7 @@ We, the team are an internal data team for a company that operates a chain of co
 
 ### Buisness Value
 
-The convince store industry. It has become saturated, leaving little room to grow. For instance, the National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to compete in. Therefore, to continue our growth and profitability we must expand internationally.
-
-The data team will help reduce risks by laying a foundation of future success by creating accurate customer predictions. By knowing how many customers we can acquire and their costs, we can best optimize our costs and supply chain. The key risk is balancing the costs and the revenue. Our CEO is risk-averse and wants to invest slowly over time. Therefore, we can analyze the data in ways to develop and build a baseline customer base. We will investigate the customers and promotions to examine the key effect of media advertising on customer acquisition costs. The data science models we develop will give indications and the factors needed to go after low CAC customers. After successfully predicting we can implement business strategies to go after the right customers, reduce costs and successfully launch in Canada. 
+The advertising landscape has exploded over the last 20 years, leading to an infinite number of media options. However, not all these options will give an equal return on investment (ROI). The data team will help reduce risks by laying a foundation of customer acquisition cost as a function of media. Predicting the ROI and number of customers, the data team is positioned to optimize our costs and supply chain. After successfully predicting we can implement business strategies to go after the segments that build a strong customer base, reduce costs to successfully launch our stores in Canada.  
 
 ## Data aquisition
 
@@ -50,8 +48,9 @@ The data team will help reduce risks by laying a foundation of future success by
 ## Launch Moniroting and maintancne.
 
 
+#Appendix
 
-
+## Steps in a DataScience Project
 1 Framing the Problem
 2 Data quisition
 3 Data Exploration
@@ -62,3 +61,12 @@ The data team will help reduce risks by laying a foundation of future success by
 8 Model fine-tuning
 9 Solution Presentation
 10 Launch Moniroting and maintancne.
+
+##Additional Context
+
+We, the team are an internal data team for a company that operates a chain of convenient stores. Although we are successful we need to grow internataionally as the US market is saturated. The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act. 
+
+<img src="https://user-images.githubusercontent.com/91097605/218141585-85d08804-ba60-4f3b-902d-658e57b75afd.png"> NACS Keyfindings from their factbook. Published January 2023
+|||
+|:--|:--|
+|<img src="https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png" width=400 > <br> <br>  Heatmap of coneneient stores accross US. Convient stores centered around population. Darker indicates higher density, lighter indicates lower desnisty.|<img src="https://user-images.githubusercontent.com/91097605/218147383-16e035a9-c555-431c-9c8b-d9bb70e428ed.png" width=400> <br><br> Heat map of US population distribution. Demonstrating overlap between conienvce stores and population.|
