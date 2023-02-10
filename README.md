@@ -12,8 +12,8 @@ This is a Machine Learning (ML) complete lifecycle project for Enterprise Data S
 We, the team are an internal data team for a company that operates a chain of convenient stores. Although we are successful we need to grow internataionally as the US market is saturated. The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act. 
 |||
 |---|---|
-|![image](https://user-images.githubusercontent.com/91097605/218141585-85d08804-ba60-4f3b-902d-658e57b75afd.png) NACS Keyfindings from their factbook. Published January 2023|
-|![image](https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png)Heatmap of coneneient stores accross US. Darker indicates higher density.|![image](https://user-images.githubusercontent.com/91097605/218142491-204f114c-24ca-44e5-875f-3656d946184e.png) Heat map of US population distribution. Demonstrating market saturation via overlap between conienvce stores and population|
+|![image](https://user-images.githubusercontent.com/91097605/218141585-85d08804-ba60-4f3b-902d-658e57b75afd.png) NACS Keyfindings from their factbook. Published January 2023||
+|![image](https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png =250x250) <br> Heatmap of coneneient stores accross US. Darker indicates higher density.|![image](https://user-images.githubusercontent.com/91097605/218142491-204f114c-24ca-44e5-875f-3656d946184e.png =250x250) <br> Heat map of US population distribution. Demonstrating market saturation via overlap between conienvce stores and population|
 
 
 
