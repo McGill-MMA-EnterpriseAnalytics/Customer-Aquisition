@@ -4,6 +4,8 @@
 
 This is a Machine Learning (ML) complete lifecycle project for Enterprise Data Science & ML Production (INSY 695). As part of this task we are a team of 7 who are tasked with completing an ML project on a dataset of our choice. There are 10 discrete steps in any data science liefecyle (details in appendix A). **In short this Github Repo is our cumulative work to accomplish a data science project from start to end.**
 
+The direct link to the data is: https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart
+
 Each role has their own brach where their documentation lives.
 
 
@@ -53,18 +55,18 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 #Appendix
 
 ## Steps in a DataScience Project
-1 Framing the Problem
-2 Data quisition
-3 Data Exploration
-4 Data Preparation
-5 Modeling
-6 Model Evaluation
-7 Model Selection
-8 Model fine-tuning
-9 Solution Presentation
-10 Launch Moniroting and maintancne.
+1 Framing the Problem <br>
+2 Data quisition <br>
+3 Data Exploration <br>
+4 Data Preparation <br>
+5 Modeling <br>
+6 Model Evaluation <br>
+7 Model Selection <br>
+8 Model fine-tuning <br>
+9 Solution Presentation <br>
+10 Launch Moniroting and maintance.<br>
 
-##Additional Context
+## Additional Context 
 
 We, the team are an internal data team for a company that operates a chain of convenient stores. Although we are successful we need to grow internataionally as the US market is saturated. The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act. 
 
