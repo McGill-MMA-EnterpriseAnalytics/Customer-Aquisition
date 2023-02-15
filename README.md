@@ -20,5 +20,5 @@ As mentioned in the Gantt Chart, Business Analysts are responsible for :
    - Loyalty: We have a loyalty feature based on different categories (normal, bronze, silver, or gold). The idea is to “measure loyalty”.
 
 # <font color=#FF0000>Last updates</font>
-02/12/23 -Business Analyts are waiting for first graphs from the Data Team 
-04/12/23- First graphs are avalable, Data team is waiting for some feedback (Data Analyst are changing their color theme to match the presentation=
+* 02/12/23 -Business Analyts are waiting for first graphs from the Data Team 
+* 04/12/23- First graphs are avalable, Data team is waiting for some feedback (Data Analyst are changing their color theme to match the presentation
