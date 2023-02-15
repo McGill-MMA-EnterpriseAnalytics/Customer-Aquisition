@@ -14,7 +14,7 @@ Each role has their own brach where their documentation lives.
 ### *Context*
 
 
-Advertisements are everywhere. In our post-pandemic world ads invade our physical and virtual space. Simultaneously customers’ attention span has decreased. In this race for attention, the media happens to play a critical role. We are an internal data science team for a convience stroe buisness. Our chain of convenience stores suffered from this crisis and fierce competition. To recover from it, our new CEO wants to open 300 new locations and extend media coverage. Although we have historically been based out of the US we want to expand into Canada. We will assume the markets are similar enough that the US data is directly applicable to the Canadian market. 
+Advertisements are everywhere. In our post-pandemic world, ads invade our physical and virtual space. Simultaneously customers’ attention span has decreased. In this race for attention, the media happens to play a critical role. We are an internal data science team for a convience store buisness. Our chain of convenience stores suffered from this crisis and fierce competition. To recover from it, our new CEO wants to open 300 new locations and extend media coverage. Although we have historically been based out of the US we want to expand into Canada. We will assume the markets are similar enough that the US data is directly applicable to the Canadian market. 
 
 We will work to identify growth drivers and better approaches to address our audience with respect to media campaign efficiency. Therefore, our mission will be three-pronged: identify profitable customers’ segments to target, minimize the cost of acquisition of customers (CAC), and analyze the results of our loyalty program. 
 
