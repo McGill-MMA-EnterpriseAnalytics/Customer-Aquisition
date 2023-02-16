@@ -21,4 +21,10 @@ As mentioned in the Gantt Chart, Business Analysts are responsible for :
 
 # <font color=#FF0000>Last updates</font>
 * 02/12/23 -Business Analyts are waiting for first graphs from the Data Team 
-* 04/12/23- First graphs are avalable, Data team is waiting for some feedback (Data Analyst are changing their color theme to match the presentation
+* 02/12/23- First graphs are avalable, Data team is waiting for some feedback (Data Analyst are changing their color theme to match the presentation
+* 02/15/2023 - Loyalty is not part of our main focus anymore, it wasn't proven to be an important factor. Income will be studied instead. We're still waiting on the grpahs showing modelling results. 
+* 02/15/2023 - Interesting graphs were added to the presentation 
+* 02/16/2023 - New graph available on the models output (added as picture in this branch)
+
+
+
