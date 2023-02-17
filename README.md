@@ -13,7 +13,10 @@ Insights from the data teams can be interpreted in the light of the marketing mi
 
 # Contribution
 
-The Product Management Team took over the definition of the problem and the strategy put into context. We worked closely with the Data Teams to communicate and adjust the strategy of the project, and with the business analyst to interpret the insights with regard to the problem statement. 
+The Product Management Team took over the definition of the problem and the strategy put into context. 
+
+We worked closely with the Data Teams to communicate and adjust the strategy of the project, and with the Business Analyst to interpret the insights with regard to the problem statement. Feedbacks loops and efficient communication were the key to deliver a coherent and insightful project.
+
 In addition, the Product Team came up with a structured outline for the group and defined the visual chart for the presentation.
 
 
