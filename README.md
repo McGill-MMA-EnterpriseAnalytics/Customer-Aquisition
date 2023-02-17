@@ -1,6 +1,6 @@
 # <font color=#FF0000>Customer-Aquisition Project</font>
 
-## Project Background Background - What is this file?
+## Project Background - What is this file?
 
 This is a Machine Learning (ML) complete lifecycle project for Enterprise Data Science & ML Production (INSY 695). As part of this task we are a team of 7 who are tasked with completing an ML project on a dataset of our choice. There are 10 discrete steps in any data science liefecyle (details in appendix A). **In short this Github Repo is our cumulative work to accomplish a data science project from start to end.**
 
@@ -33,23 +33,14 @@ Given the competitive landscape and saturated market, our new CEO who wants to o
 
 The advertising landscape has exploded over the last 20 years, leading to an infinite number of media options. However, not all these options will give an equal return on investment (ROI). The data team will help reduce risks by laying a foundation of customer acquisition cost as a function of media. Predicting the ROI and number of customers, the data team is positioned to optimize our costs and supply chain. After successfully predicting we can implement business strategies to go after the segments that build a strong customer base, reduce costs to successfully launch our stores in Canada.  
 
-## Data aquisition
+## Machine Learning Approach
 
-## Data Exploration
+### Data Preprocessing
 
-## Data Preparation
+### Modeling Results
 
-## Modeling
 
-## Model Evaluation
-
-## Model Selection
-
-## Model fine-tuning
-
-## Solution Presentation
-
-## Launch Moniroting and maintancne.
+## Final Insights
 
 
 # Appendix
