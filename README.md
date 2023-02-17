@@ -30,9 +30,9 @@ Based on the timelines and the team dynamics we determined an approach that bala
 
 ## Last Updates:
 
-01/24/23 - Kick off meeting to determinre roles, team norms, responsabilities, ect
-01/27/23 - Selection of data set, set up of gantt chart and other team resources
-02/03/23 - Check in with teams to understand progress of buisness analysts and data analysts
-02/07/23 - Check in with teams to understand progress of buisness analysts and data analysts
-02/10/23 - Resolving communicatin challenges between data scientsits, buisness analysts, and data analysts based on model insights and causal inference. 
-02/15/23 - Last meeting to push through for presentation and other un resolved loose ends.
+01/24/23 - Kick off meeting to determinre roles, team norms, responsabilities, ect<br>
+01/27/23 - Selection of data set, set up of gantt chart and other team resources<br>
+02/03/23 - Check in with teams to understand progress of buisness analysts and data analysts<br>
+02/07/23 - Check in with teams to understand progress of buisness analysts and data analysts<br>
+02/10/23 - Resolving communicatin challenges between data scientsits, buisness analysts, and data analysts based on model insights and causal inference. <br>
+02/15/23 - Last meeting to push through for presentation and other un resolved loose ends.<br>
