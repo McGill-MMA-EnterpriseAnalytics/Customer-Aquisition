@@ -46,6 +46,8 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 # Appendix
 
 ## Steps in a DataScience Project
+The following stesps are the ideal aproach to a data science project and ensure that our methodology is sound and our conclusions fair <br>
+
 1 Framing the Problem <br>
 2 Data quisition <br>
 3 Data Exploration <br>
@@ -59,9 +61,22 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 
 ## Additional Context 
 
-We, the team are an internal data team for a company that operates a chain of convenient stores. Although we are successful we need to grow internataionally as the US market is saturated. The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act. 
+We, the team are an internal data team for a company that operates a chain of convenient stores. Although we are successful we need to grow internataionally as the US market is saturated. The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act. Further to market saturation, media attention in a post covid world is diminishing. Therefore we will need to work hard to remain a profitable and growing company. Why not work smarter with the help of data science and not harder.
+
+### Market Context
+
+There are 150 thousand convient stroes accross the US. Sales accout for more than $650 billion USD. The growth of this industry is projected to continue its 1-3% annual trajectory. The growth keeps up wiht inflation. Some estimates do not forsee a market cap as more people search for convience ahead of other factors. The ingenuity and creativty in this space is very active. <br>
+However, canada has a much smaller economy and less developed in terms of convient stroes. The estimated size of the convient store industry is $11.4 billion USD. Whit a population that is 10% that of the US, and a similar cultural value system it is surprising then that the indsutry size is only 2% that of the US. We see an opportunity for the market to grow, and for our 300 new stores to become a market leader, or rapid growting company. If the market grows by 2x over 10 years and our company accounts for 20% of that growth, we would see sales increase by $2 billion USD.
+
 
 <img src="https://user-images.githubusercontent.com/91097605/218141585-85d08804-ba60-4f3b-902d-658e57b75afd.png"> NACS Keyfindings from their factbook. Published January 2023
 |||
 |:--|:--|
 |<img src="https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png" width=400 > <br> <br>  Heatmap of convient stores accross US. Convient stores centered around population. Darker indicates higher density, lighter indicates lower desnisty.|<img src="https://user-images.githubusercontent.com/91097605/218147383-16e035a9-c555-431c-9c8b-d9bb70e428ed.png" width=400> <br><br> Heat map of US population distribution. Demonstrating overlap between conienvce stores and population.|
+
+## Sources
+NACS: https://www.convenience.org/Research/FactSheets/IndustryStoreCount
+Statistica: https://www.statista.com/topics/3869/convenience-stores-in-the-us/#topicOverview
+Decreased Attention: https://www.usatoday.com/story/life/health-wellness/2021/12/22/covid-attention-span-exhaustion/8926439002/
+Canada Convient Store: https://www.ic.gc.ca/app/scr/app/cis/summary-sommaire/44512
+Canada Convient store industry size: https://www.ibisworld.com/canada/market-size/convenience-stores/
