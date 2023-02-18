@@ -36,6 +36,8 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 ## Machine Learning Approach
 
 ### Data Preprocessing
+![image](https://user-images.githubusercontent.com/91097605/219875576-8e5670ed-c2b2-4d80-8379-245d079a9fe3.png)
+
 
 ### Modeling Results
 
