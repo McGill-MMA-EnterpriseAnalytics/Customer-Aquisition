@@ -5,6 +5,12 @@ The two Project Managers for this project are:
 Julie Chanzy
 Emery Dittmer
 
+# Contribution
+
+The Project Management Team led the project and guided the overal direction of the project at a high level. The Project managers helped the teams communicate, gain insights, meaning and corss team support.
+
+We worked to establish a strong outline with the gantt chart and structure for the Teams to work together and pass the baton. We seamlessly integrated all aspects of the project. We were also hands on with problem solving and all issues. For instance while the data analyst and project managers had some great buisenss insights, the data did not support their conclusions. We resolved this by trusting the data and understanding the relationships in the dataset more in depth
+
 ## Responsabilities
 
 The Porject managemnet team is responssible for ensuring that the overal direction of the project is closer to progress and to lower the barriers of stuggles and challenges. This includes settgin up the team gantt chart, establishing the team norms and helping with any challenges.
