@@ -1,4 +1,4 @@
-# <font color=#FF0000>This is the Data Scientist Branch</font>
+# <font color=#FF0000>Modeling Summary</font>
 
 In this project, we tried to segment customers, predict acquisition cost for them, and derive business insights based on the data. 
 For customer segmentation, we primarily focused on customers' gender and income but also studied their number of cars, number of children, education level, loyalty club membership, and occupation. 
