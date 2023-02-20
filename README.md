@@ -16,7 +16,7 @@ Each role has their own brach where their documentation lives.
 
 Advertisements are everywhere. In our post-pandemic world, ads invade our physical and virtual space. Simultaneously customers’ attention span has decreased. In this race for attention, the media happens to play a critical role. We are an internal data science team for a convience store buisness. Our chain of convenience stores suffered from this crisis and fierce competition. To recover from it, our new CEO wants to open 300 new locations and extend media coverage. Although we have historically been based out of the US we want to expand into Canada. We will assume the markets are similar enough that the US data is directly applicable to the Canadian market. 
 
-We will work to identify growth drivers and better approaches to address our audience with respect to media campaign efficiency. Therefore, our mission will be three-pronged: identify profitable customers’ segments to target, minimize the cost of acquisition of customers (CAC), and analyze the results of our loyalty program. 
+We will work to identify growth drivers and better approaches to address our audience with respect to media campaign efficiency. Therefore, our mission will be three-pronged: identify profitable customers’ segments to target, **minimize the cost of acquisition of customers (CAC)**, and analyze the results of our loyalty program. 
 
 
 ### *Problem Statment*
@@ -41,6 +41,19 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 
 ### Modeling Results
 
+We found thatin order to minimize the cusotmer cost of aquisition, we would need to predict it using the factores we have access to. We ran multiple models which produced different key insights. The best model, based on the lowest error was the extra tree model. We will now be able to minimize the CAC and model different senarios based on the model's predictive power.
+
+|Model| RMSE|
+|:--|:--|
+|Base Model|820|
+|Linear Model|810|
+|Artificial Neural Network|800|
+|Decision Tree|700|
+|Ada Boost Tree|650|
+|LightGBM|400|
+|Gradient Boosting|380|
+|Random Forest|330|
+|Extra Tree|250|
 
 ## Final Insights
 
