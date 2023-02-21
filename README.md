@@ -43,7 +43,7 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 
 We found thatin order to minimize the cusotmer cost of aquisition, we would need to predict it using the factores we have access to. We ran multiple models which produced different key insights. The best model, based on the lowest error was the extra tree model. We will now be able to minimize the CAC and model different senarios based on the model's predictive power.
 
-|Model| RMSE|
+|Model| MSE|
 |:--|:--|
 |Base Model|820|
 |Linear Model|810|
