@@ -58,3 +58,9 @@ Generation shopping habits:
 * Gen Z : Use google to compare everything, more slective when it comes to big expenditures (buying product only when they’re on sale). For 84% of Gen Z, shopping is a social activity. Still prefer to buy in-store than online 
 
  
+# <font color=#FF0000>Business Insights</font>
+
+With our study we found out that the biggest factor that increase the cost of acquisition of customers is the ratio of the space dedicated to meat in a covnenient store. The largest the meat area, the highest the customer cost. 
+We came to the conclusion that meat is kind of a luxury product and a store with a lot of meat is more intended to customers that have more money. 
+
+The second factor is the media type. Indeed, depending on the media type, the type of store and even the gender the cost will vary a lot. To know that is usefull and it will come to targeting customers. Our study showed for example that daily paper and the radio were the adverstiment prefered by the majority, well ahead of the TV for example or the bulk mail. 
