@@ -37,3 +37,10 @@ In our project we want to study the advertisement strategies and the cost of acq
 
 To better understand the customers landscape and who is most attracted to what we first did some researches. 
 
+Study 1 - https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-great-consumer-shift-ten-charts-that-show-how-us-shopping-behavior-is-changing S
+Study on how US shoppings trends have changed : (lots of graphs that can be used to put a context to our study and why we decide to focus on some predictors or on some models more than others.  
+* Digital Shopping is here to stay 
+* Millenials and high income earners are in the lead to shop online 
+* Consumers are switching brands at unprecedented rates (36% of consumers try new product) 
+* Consumer shopping intent is focused on essentials 
+
