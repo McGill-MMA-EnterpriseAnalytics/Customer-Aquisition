@@ -12,7 +12,7 @@ Also, for the causal inference task, we experimented with 'gender', 'member_card
 ## Results
 We found that the model producting the best results was the extra tree model.
 
-|Model| RMSE|
+|Model| MSE|
 |:--|:--|
 |Base Model|820|
 |Linear Model|810|
