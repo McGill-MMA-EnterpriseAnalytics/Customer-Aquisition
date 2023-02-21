@@ -38,9 +38,23 @@ In our project we want to study the advertisement strategies and the cost of acq
 To better understand the customers landscape and who is most attracted to what we first did some researches. 
 
 Study 1 - https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-great-consumer-shift-ten-charts-that-show-how-us-shopping-behavior-is-changing S
-Study on how US shoppings trends have changed : (lots of graphs that can be used to put a context to our study and why we decide to focus on some predictors or on some models more than others.  
+Study on how US shoppings trends have changed :
 * Digital Shopping is here to stay 
 * Millenials and high income earners are in the lead to shop online 
 * Consumers are switching brands at unprecedented rates (36% of consumers try new product) 
 * Consumer shopping intent is focused on essentials 
 
+Study 2 - https://www.epsilon.com/us/insights/blog/5-ways-consumer-shopping-behavior-has-transformed-in-the-past-2-years 
+Shopping Trends: 
+* Consumers are still buying non-essential items 
+* Shoppers are trying new brands 
+* Online shopping is here to stay 
+
+Study 3 - https://salesfloor.net/blog/generations-shopping-habits/
+Generation shopping habits:
+* Baby boomer : convenience above all, generation too stressed for shopping trips. Spending power to make purchases without necessarily hunting down for bargains in store. Can shop online but 84% prefer to shop in-store.  
+* Generation X: represents 31% of US total income, do research before buying a product? Trusts clienteling techniques, digital email is one of the best channels for reaching out to this generation, respond well to personalized offers based on their previous purchases.  
+* Generation Y : even they shop online and in-store, more likely to purchase in store than online. Selectives with their purchase. 82% of Millennials say word-of-mouth is a key influencer of their purchase decisions. 68% said being strongly influenced by social media. 90% of millenials to research online before buying 
+* Gen Z : Use google to compare everything, more slective when it comes to big expenditures (buying product only when they’re on sale). For 84% of Gen Z, shopping is a social activity. Still prefer to buy in-store than online 
+
+ 
