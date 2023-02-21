@@ -27,4 +27,13 @@ As mentioned in the Gantt Chart, Business Analysts are responsible for :
 * 02/16/2023 - New graph available on the models output (added as picture in this branch)
 
 
+# <font color=#FF0000>Context</font>
+
+Convenient store are a big part of the economy in North America. Indeed, in the US we can count more than 150,000 convenient store for a total sales of 663.5bn USD. In convenience stores, the sales can be separated into two categories: food and merchandise. The highest-selling product is cigarettes, with sales totaling 56 billion U.S. dollars, followed by beer, with domestic premium brands like Budweiser being the most popular. Snacks and candy are also popular items sold in convenience stores. Potato chips are the best-selling salty snack, and chocolate is the preferred candy. Due to the COVID-19 pandemic, many U.S. consumers have reduced their visits to convenience stores. A survey conducted in August 2020 showed that over half of millennial and baby boomer respondents reported visiting convenience stores less frequently. Convenient stores have been trying to attract customers back. After improving health safety they are now implementing new advertisment policies such as offering discounts, loyalty programs or media advertisement.
+
+In our project we want to study the advertisement strategies and the cost of acquisition of customers. The idea is to optimize media strategy to minimze the acquisition cost. This includes mnimizing media campaign cost, targeting customers segments that we identify as having the lowest acquisition cost and maximizing customers reach. 
+
+## <font color=#FF0000>Who are the customers ? </font>
+
+To better understand the customers landscape and who is most attracted to what we first did some researches. 
 
