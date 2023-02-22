@@ -23,3 +23,16 @@ We found that the model producting the best results was the extra tree model.
 |Gradient Boosting|380|
 |Random Forest|330|
 |Extra Tree|250|
+
+## Segmentation
+
+### Description
+The first analysis is bivariate analysis, which involves examining the relationship between two variables. The example given is the relationship between gender and income.
+The second type of analysis mentioned is multivariate analysis, which involves examining the relationship between multiple variables. The example given is the relationship between gender, income, and education.
+It also contains the concept of controlling for variables in multivariate analysis, which involves holding some variables constant while examining the relationship between others.
+
+### Implications
+The implication of discussing these types of analyses is that they are common and useful tools in statistical research. By understanding the different types of analyses that can be conducted, analysts can select the most appropriate method for their research question and data.
+
+### Miscellaneous
+- Although total_children and num_children_at_home may appear to be correlated, they actually measure different aspects of a household. Total_children reflects the total number of children in a household, whereas num_children_at_home is based on customer survey responses. For example, it's possible for num_children_at_home to be 2 while total_children is 4, indicating that two children are away from home for some reason, such as relocation for university studies.
