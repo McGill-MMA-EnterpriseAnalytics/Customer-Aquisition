@@ -88,7 +88,7 @@ Below is a table that divides our roles and responsabilities.
 
 |   |Data Analyst |Data Scientist |Business Analyst |Product Manager |Project Manager |
 |:--|:--|:--|:--|:--|:---|
-|Responsabilities:|Data Cleanup <br><br> Data vizualization <br><br> Data Metrics <br><br><br><br><br> |Data Modelling <br><br> Model Correlation <br><br><br><br><br><br><br><br>|Interpretation of results <br> <br> Data vizualization <br><br><br><br><br><br><br><br>|Market expert <br><br> Strategy Report <br><br> Slides <br><br><br><br><br><br>  |Keep track of progress <br><br> Meeting organization <br><br>  Check on work flow Deliverables <br><br> Setup Github |
+|Responsabilities:|Data Cleanup <br><br> Data vizualization <br><br> Data Metrics <br><br><br><br><br> |Data Modelling <br><br> Model Correlation <br><br><br><br><br><br><br><br>|Interpretation of results <br> <br> Data vizualization <br><br><br><br><br><br><br>|Market expert <br><br> Strategy Report <br><br> Slides <br><br><br><br><br> |Keep track of progress <br><br> Meeting organization <br><br>  Check on work flow Deliverables <br><br> Setup Github |
 |Lead|Priyanka |Raman |Lucie |Julie |Emery |
 |Team|Jeongho <br> Priyanka |Jeongho <br> Bennett <br> Raman |Lucie <br> Bennett <br> Julie <br> Emery |Lucie <br> Julie <br> Emery <br> Raman|Emery <br> Julie|
 
@@ -106,8 +106,8 @@ However, canada has a much smaller economy and less developed in terms of convie
 |<img src="https://user-images.githubusercontent.com/91097605/218142344-c2e6b518-eac9-4625-bfde-0f2d3bdc4c33.png" width=400 > <br> <br>  Heatmap of convient stores accross US. Convient stores centered around population. Darker indicates higher density, lighter indicates lower desnisty.|<img src="https://user-images.githubusercontent.com/91097605/218147383-16e035a9-c555-431c-9c8b-d9bb70e428ed.png" width=400> <br><br> Heat map of US population distribution. Demonstrating overlap between conienvce stores and population.|
 
 ## Sources
-NACS: https://www.convenience.org/Research/FactSheets/IndustryStoreCount
-Statistica: https://www.statista.com/topics/3869/convenience-stores-in-the-us/#topicOverview
-Decreased Attention: https://www.usatoday.com/story/life/health-wellness/2021/12/22/covid-attention-span-exhaustion/8926439002/
-Canada Convient Store: https://www.ic.gc.ca/app/scr/app/cis/summary-sommaire/44512
-Canada Convient store industry size: https://www.ibisworld.com/canada/market-size/convenience-stores/
+NACS: https://www.convenience.org/Research/FactSheets/IndustryStoreCount <br>
+Statistica: https://www.statista.com/topics/3869/convenience-stores-in-the-us/#topicOverview<br>
+Decreased Attention: https://www.usatoday.com/story/life/health-wellness/2021/12/22/covid-attention-span-exhaustion/8926439002/<br>
+Canada Convient Store: https://www.ic.gc.ca/app/scr/app/cis/summary-sommaire/44512<br>
+Canada Convient store industry size: https://www.ibisworld.com/canada/market-size/convenience-stores/<br>
