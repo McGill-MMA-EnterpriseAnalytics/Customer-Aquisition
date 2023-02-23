@@ -35,7 +35,14 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 
 ## Machine Learning Approach
 
+We used 3 separate approaches to investigate the problem. We started with a simple linear model, then used more advanced machine learning techniquest and ended with a more advanced casual inference model.
+
+![image](https://user-images.githubusercontent.com/91097605/220921176-f9265fa6-95b1-4b0f-ad40-7d36aa495cbb.png)
+
+
 ### Data Preprocessing
+We used the following steps for data pre-processing
+
 ![image](https://user-images.githubusercontent.com/91097605/219875576-8e5670ed-c2b2-4d80-8379-245d079a9fe3.png)
 
 
@@ -43,19 +50,15 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 
 We found thatin order to minimize the cusotmer cost of aquisition, we would need to predict it using the factores we have access to. We ran multiple models which produced different key insights. The best model, based on the lowest error was the extra tree model. We will now be able to minimize the CAC and model different senarios based on the model's predictive power.
 
-|Model| MSE|
-|:--|:--|
-|Base Model|820|
-|Linear Model|810|
-|Artificial Neural Network|800|
-|Decision Tree|700|
-|Ada Boost Tree|650|
-|LightGBM|400|
-|Gradient Boosting|380|
-|Random Forest|330|
-|Extra Tree|250|
+|Model|Base Model|Linear Model|Artificial Neural Network|Decision Tree|Ada Boost Tree|LightGBM|Gradient Boosting|Random Forest|Extra Tree|
+|---|---|---|---|---|---|---|---|---|---|
+|MSE|820|810|800|700|650|400|380|330|250|
 
 ## Final Insights
+
+From the extra tree model we discovered the feature importances. The model indicated that the media type and meat to toal ration were the most important predictors. So in order to lower our customer aqusition cost, we should fcous on cheaper media and lower the amount of meat in our convient stores.
+
+![image](https://user-images.githubusercontent.com/91097605/220922554-df8747cb-af1c-4ad1-8972-bf61c459a43c.png)
 
 
 # Appendix
