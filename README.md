@@ -43,7 +43,7 @@ We used 3 separate approaches to investigate the problem. We started with a simp
 ### Data Preprocessing
 We used the following steps for data pre-processing
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91097605/219875576-8e5670ed-c2b2-4d80-8379-245d079a9fe3.png" width=400> </p><br>
+<p align="center"><img src="https://user-images.githubusercontent.com/91097605/219875576-8e5670ed-c2b2-4d80-8379-245d079a9fe3.png" width=500> </p><br>
 
 ### Modeling Results
 
@@ -57,7 +57,7 @@ We found thatin order to minimize the cusotmer cost of aquisition, we would need
 
 From the extra tree model we discovered the feature importances. The model indicated that the media type and meat to toal ration were the most important predictors. So in order to lower our customer aqusition cost, we should fcous on cheaper media and lower the amount of meat in our convient stores.
 
-<p align="center"><img src="https://user-images.githubusercontent.com/91097605/220922554-df8747cb-af1c-4ad1-8972-bf61c459a43c.png" height=400> </p><br>
+<p align="center"><img src="https://user-images.githubusercontent.com/91097605/220922554-df8747cb-af1c-4ad1-8972-bf61c459a43c.png" height=500> </p><br>
 
 
 # Appendix
@@ -83,8 +83,7 @@ We, the team are an internal data team for a company that operates a chain of co
 ## Team Organization
 
 Below is a table that divides our roles and responsabilities.
-
-![image](https://user-images.githubusercontent.com/91097605/220213486-8cbd1a63-43f3-49f3-8ead-f8291240b8df.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/91097605/220213486-8cbd1a63-43f3-49f3-8ead-f8291240b8df.png" width=500> </p><br>
 
 
 |   |Data Analyst |Data Scientist |Business Analyst |Product Manager |Project Manager |
