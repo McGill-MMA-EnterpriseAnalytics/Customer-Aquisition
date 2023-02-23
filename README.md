@@ -88,7 +88,7 @@ Below is a table that divides our roles and responsabilities.
 
 |   |Data Analyst |Data Scientist |Business Analyst |Product Manager |Project Manager |
 |:--|:--|:--|:--|:--|:---|
-|Responsabilities:|Data Cleanup <br><br> Data vizualization <br><br> Data Metrics <br><br><br><br><br> |Data Modelling <br><br> Model Correlation <br><br><br><br><br><br><br><br>|Interpretation of results <br> <br> Data vizualization <br><br><br><br><br><br><br>|Market expert <br><br> Strategy Report <br><br> Slides <br><br><br><br>|Keep track of progress <br><br> Meeting organization <br><br>  Check on work flow Deliverables <br><br> Setup Github |
+|Responsabilities:|Data Cleanup <br><br> Data vizualization <br><br> Data Metrics <br><br><br><br><br> |Data Modelling <br><br> Model Correlation <br><br><br><br><br><br>|Interpretation of results <br> <br> Data vizualization <br><br><br><br><br><br>|Market expert <br><br> Strategy Report <br><br> Slides <br><br><br><br>|Keep track of progress <br><br> Meeting organization <br><br>  Check on work flow Deliverables <br><br> Setup Github |
 |Lead|Priyanka |Raman |Lucie |Julie |Emery |
 |Team|Jeongho <br> Priyanka |Jeongho <br> Bennett <br> Raman |Lucie <br> Bennett <br> Julie <br> Emery |Lucie <br> Julie <br> Emery <br> Raman|Emery <br> Julie|
 
