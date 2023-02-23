@@ -37,14 +37,13 @@ The advertising landscape has exploded over the last 20 years, leading to an inf
 
 We used 3 separate approaches to investigate the problem. We started with a simple linear model, then used more advanced machine learning techniquest and ended with a more advanced casual inference model.
 
-![image](https://user-images.githubusercontent.com/91097605/220921176-f9265fa6-95b1-4b0f-ad40-7d36aa495cbb.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/91097605/220923154-5e299c9e-14e9-495d-a1b2-e888e109888f.png" width=400> </p><br>
 
 
 ### Data Preprocessing
 We used the following steps for data pre-processing
 
-![image](https://user-images.githubusercontent.com/91097605/219875576-8e5670ed-c2b2-4d80-8379-245d079a9fe3.png)
-
+<p align="center"><img src="https://user-images.githubusercontent.com/91097605/219875576-8e5670ed-c2b2-4d80-8379-245d079a9fe3.png" width=400> </p><br>
 
 ### Modeling Results
 
@@ -58,7 +57,7 @@ We found thatin order to minimize the cusotmer cost of aquisition, we would need
 
 From the extra tree model we discovered the feature importances. The model indicated that the media type and meat to toal ration were the most important predictors. So in order to lower our customer aqusition cost, we should fcous on cheaper media and lower the amount of meat in our convient stores.
 
-![image](https://user-images.githubusercontent.com/91097605/220922554-df8747cb-af1c-4ad1-8972-bf61c459a43c.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/91097605/220922554-df8747cb-af1c-4ad1-8972-bf61c459a43c.png" height=400> </p><br>
 
 
 # Appendix
