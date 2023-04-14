@@ -80,7 +80,7 @@ The following stesps are the ideal aproach to a data science project and ensure 
 
 We, the team are an internal data team for a company that operates a chain of convenient stores. Although we are successful we need to grow internataionally as the US market is saturated. The National Association of Convenience Stores (NACS) demonstrates through their fact sheet that the US is a highly competitive and challenging market to perate in. Therefore sales will plateau eventually unless we act. Further to market saturation, media attention in a post covid world is diminishing. Therefore we will need to work hard to remain a profitable and growing company. Why not work smarter with the help of data science and not harder.
 
-## Team Organization
+## Team Organization V1
 
 Below is a table that divides our roles and responsabilities.
 <p align="center"><img src="https://user-images.githubusercontent.com/91097605/220213486-8cbd1a63-43f3-49f3-8ead-f8291240b8df.png" width=500> </p><br>
@@ -92,8 +92,9 @@ Below is a table that divides our roles and responsabilities.
 |Lead|Priyanka |Raman |Lucie |Julie |Emery |
 |Team|Jeongho <br> Priyanka |Jeongho <br> Bennett <br> Raman |Lucie <br> Bennett <br> Julie <br> Emery |Lucie <br> Julie <br> Emery <br> Raman|Emery <br> Julie|
 
-
-
+## Team Organization V2
+|   |Data Analyst |Data Scientist |Business Analyst |Project Manager |Data Engineer |
+|:--|:--|:--|:--|:--|:---|
 ### Market Context
 
 There are 150 thousand convient stroes accross the US. Sales accout for more than $650 billion USD. The conservative estimates of growth for this industry are projected to continue at their 1-3% annual pace, keeping up with and occassionaly passing inflation. Some estimates forsee a steeper growth as more people search for convience ahead of other factors. The convience plays a large role in our short attention span world. Convience also plays a key role in rescessions as consumers gernally use low absolute cost solutions over higher absolute priced itesm, benifiting the convient store. In other the consumer will pick a words a 6 pack of 231 ml pepsi will cost $2.99 at the convient store over a 6 pack of 491ml pepsi from the grocery store for  $4.49 bcasue of the absolute differnce in prcie. The ingenuity and creativty in convient stores  is very active and poisted to increase sales and the industry growth quickly. <br><br>
