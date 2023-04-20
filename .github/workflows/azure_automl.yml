@@ -28,4 +28,4 @@ jobs:
         AZURE_CLIENT_ID: 8a27b421-56e8-4767-96a0-ce2a2daa8656
         AZURE_CLIENT_SECRET: 4a6a2a6f-e2de-4800-a4dc-1f4c0d6512d1
       run: |
-        python automl_driver.py mlproject boqun.shu-rg
+        python automl_driver.py
