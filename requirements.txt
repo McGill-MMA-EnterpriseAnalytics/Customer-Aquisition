@@ -7,7 +7,7 @@ importlib-resources==5.11.1 ; python_version < '3.10'
 joblib==1.2.0 ; python_version >= '3.7'
 kiwisolver==1.4.4 ; python_version >= '3.7'
 lightgbm==3.3.5
-matplotlib==3.7.0
+matplotlib==3.5.3
 numpy==1.24.2
 packaging==23.0 ; python_version >= '3.7'
 pandas==1.5.3
