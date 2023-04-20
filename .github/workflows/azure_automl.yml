@@ -22,10 +22,5 @@ jobs:
         python -m pip install --upgrade pip
         pip install azureml-sdk azureml-core
     - name: Run Azure Automated ML
-      env:
-        AZURE_SUBSCRIPTION_ID: c7261a9b-9ffb-46f9-a6ef-61eefdc69f66
-        AZURE_TENANT_ID: cd319671-52e7-4a68-afa9-fcf8f89f09ea
-        AZURE_CLIENT_ID: 8a27b421-56e8-4767-96a0-ce2a2daa8656
-        AZURE_CLIENT_SECRET: 4a6a2a6f-e2de-4800-a4dc-1f4c0d6512d1
       run: |
         python automl_driver.py
