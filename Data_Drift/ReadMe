@@ -1,1 +1,17 @@
 
+April 21th
+
+1. Split datasets
+2. Applied pre-processing and feature engineering
+
+Next steps:
+
+3. Test Feature Drift
+4. Test Data Drift
+
+Statistical Metrics to be used
+1. Kullback-Leibler (KL) Divergence
+2. Jensen-Shannon (JS) Divergence
+3. Kolmogorov-Smirnov (KS) Test
+4. Mixed-type tabular data drift detection
+5. L-infinity Distance
