@@ -7,5 +7,8 @@
     "test": "mocha"
   },
   "author": "Boqun",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
 }
