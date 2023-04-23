@@ -1,0 +1,215 @@
+Failure while loading azureml_run_type_providers. Failed to load entrypoint automl = azureml.train.automl.run:AutoMLRun._from_run_dto with exception (urllib3 1.25.11 (/azureml-envs/azureml-automl/lib/python3.8/site-packages), Requirement.parse('urllib3>=1.26.0'), {'docker'}).
+Failure while loading azureml_run_type_providers. Failed to load entrypoint hyperdrive = azureml.train.hyperdrive:HyperDriveRun._from_run_dto with exception (urllib3 1.25.11 (/azureml-envs/azureml-automl/lib/python3.8/site-packages), Requirement.parse('urllib3>=1.26.0'), {'docker'}).
+Failure while loading azureml_run_type_providers. Failed to load entrypoint azureml.PipelineRun = azureml.pipeline.core.run:PipelineRun._from_dto with exception (urllib3 1.25.11 (/azureml-envs/azureml-automl/lib/python3.8/site-packages), Requirement.parse('urllib3>=1.26.0'), {'docker'}).
+Failure while loading azureml_run_type_providers. Failed to load entrypoint azureml.ReusedStepRun = azureml.pipeline.core.run:StepRun._from_reused_dto with exception (urllib3 1.25.11 (/azureml-envs/azureml-automl/lib/python3.8/site-packages), Requirement.parse('urllib3>=1.26.0'), {'docker'}).
+Failure while loading azureml_run_type_providers. Failed to load entrypoint azureml.StepRun = azureml.pipeline.core.run:StepRun._from_dto with exception (urllib3 1.25.11 (/azureml-envs/azureml-automl/lib/python3.8/site-packages), Requirement.parse('urllib3>=1.26.0'), {'docker'}).
+Failure while loading azureml_run_type_providers. Failed to load entrypoint azureml.scriptrun = azureml.core.script_run:ScriptRun._from_run_dto with exception (urllib3 1.25.11 (/azureml-envs/azureml-automl/lib/python3.8/site-packages), Requirement.parse('urllib3>=1.26.0'), {'docker'}).
+Importing plotly failed. Interactive plots will not work.
+SDK supports model testing.
+Starting the model test run....
+run_id in the real script:  469b7ace-8295-4265-bba1-5ad5917c17b2
+Set enable_streaming flag to False
+Set test_include_predictions_only flag to False
+2023-04-20 23:06:35,667524 - INFO - Beginning model test wrapper.
+WARNING:root:Received unrecognized parameter grain_column_names
+2023-04-20 23:06:36.183 - INFO - Successfully got the cache data store, caching enabled.
+2023-04-20 23:06:36.183 - INFO - Took 0.38544392585754395 seconds to retrieve cache data store
+2023-04-20 23:06:36.185 - INFO - Requested a new ExperimentStore instance.
+2023-04-20 23:06:36.185 - INFO - Created ExperimentStore with ID: 22843218391968.
+2023-04-20 23:06:36.199 - INFO - No files are available for the cache store locally, downloading files from the Run.
+2023-04-20 23:06:36.884 - INFO - Loading from file cache
+2023-04-20 23:06:36.884 - INFO - ActivityStarted: load
+2023-04-20 23:06:36.884 - INFO - load() => key _CACHE_STORE_KEY_ONNX_CONVERTER_INIT_METADATA_ exists in cache_items
+2023-04-20 23:06:36.885 - INFO - ActivityCompleted: Activity=load, HowEnded=Success, Duration=1.01[ms]
+2023-04-20 23:06:36.886 - INFO - ActivityStarted: get
+2023-04-20 23:06:36.886 - INFO - Getting data for key: ExperimentData_materialized
+2023-04-20 23:06:36.886 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=0.38[ms]
+2023-04-20 23:06:36.886 - INFO - ActivityStarted: get
+2023-04-20 23:06:36.887 - INFO - Getting data for key: ExperimentData_lazy
+2023-04-20 23:06:36.887 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=0.27[ms]
+2023-04-20 23:06:36.887 - INFO - ActivityStarted: get
+2023-04-20 23:06:36.887 - INFO - Getting data for key: ExperimentData_partitioned
+2023-04-20 23:06:36.888 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=1.33[ms]
+2023-04-20 23:06:36.889 - INFO - ActivityStarted: get
+2023-04-20 23:06:36.889 - INFO - Getting data for key: ExperimentMetadata
+2023-04-20 23:06:36.902 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=13.46[ms]
+2023-04-20 23:06:36.903 - INFO - ActivityStarted: get
+2023-04-20 23:06:36.903 - INFO - Getting data for key: ExperimentMetadata_Timeseries
+2023-04-20 23:06:36.903 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=0.3[ms]
+2023-04-20 23:06:36.903 - INFO - ActivityStarted: get
+2023-04-20 23:06:36.903 - INFO - Getting data for key: ExperimentMetadata_Regression
+2023-04-20 23:06:36.903 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=0.26[ms]
+2023-04-20 23:06:36.903 - INFO - ActivityStarted: get
+2023-04-20 23:06:36.904 - INFO - Getting data for key: ExperimentMetadata_Classification
+2023-04-20 23:06:36.904 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=0.25[ms]
+2023-04-20 23:06:36.907 - INFO - Feature sweeping enabled: False
+2023-04-20 23:06:36.907 - INFO - Feature sweeping timeout: 86400
+2023-04-20 23:06:39.665 - INFO - Current memory usage (X): 70.86399459838867Mb
+2023-04-20 23:06:39.786 - INFO - Memory usage (X) decreased to 65.79 Mb (0.0000% reduction)
+2023-04-20 23:06:39.786 - INFO - Performing train/test split using random sampling.
+2023-04-20 23:06:39.818 - INFO - Extracted train/test split from training data. X: (42299, 39), y: (42299,) X_test: (18129, 39), y_test: (18129,)
+2023-04-20 23:06:39.876 - INFO - Current memory usage (X): 46.37703895568848Mb
+2023-04-20 23:06:39.979 - INFO - Current memory usage (X): 19.876543045043945Mb
+2023-04-20 23:06:40.011 - INFO - Fetching model from training run.
+2023-04-20 23:06:40.124 - INFO - ActivityStarted: DownloadModel
+2023-04-20 23:06:40.529 - INFO - Feature sweeping enabled: False
+2023-04-20 23:06:40.529 - INFO - Feature sweeping timeout: 86400
+2023-04-20 23:06:40.554 - INFO - ActivityCompleted: Activity=DownloadModel, HowEnded=Success, Duration=429.97[ms]
+2023-04-20 23:06:40.555 - INFO - Inspecting target column for missing values.
+2023-04-20 23:06:40.555 - INFO - ActivityStarted: get
+2023-04-20 23:06:40.555 - INFO - Getting data for key: featurization/data/full_training_dataset
+2023-04-20 23:06:40.555 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=0.25[ms]
+2023-04-20 23:06:40.555 - INFO - ActivityStarted: get
+2023-04-20 23:06:40.556 - INFO - Getting data for key: featurization/data/X
+2023-04-20 23:06:40.643 - INFO - parquet to spmatrix. Memory: 15396.77 kb,Disk: 1953.22 kb
+2023-04-20 23:06:40.644 - INFO - Getting data for key: featurization/data/y
+2023-04-20 23:06:40.648 - INFO - parquet to ndarray. Memory: 304.68 kb,Disk: 45.14 kb
+2023-04-20 23:06:40.649 - INFO - Deserialized parquet file into a numpy array of shape: (38069, 1)
+2023-04-20 23:06:40.649 - INFO - parquet to ndarray. Memory: 304.55 kb,Disk: 45.14 kb
+2023-04-20 23:06:40.649 - INFO - Deserialized parquet file into a single dimensional array of shape: (38069,)
+2023-04-20 23:06:40.649 - INFO - parquet to ndarray. Memory: 304.55 kb,Disk: 45.14 kb
+2023-04-20 23:06:40.649 - INFO - Getting data for key: featurization/data/sample_weight
+2023-04-20 23:06:40.649 - INFO - ActivityCompleted: Activity=get, HowEnded=Success, Duration=93.96[ms]
+2023-04-20 23:06:40.650 - INFO - ModelTestPhase: X_test.shape: (18129, 39)
+2023-04-20 23:06:40.650 - INFO - ModelTestPhase: y_test.type: ndarray
+2023-04-20 23:06:40.650 - INFO - ModelTestPhase: model type: RegressionPipeline
+2023-04-20 23:06:40.650 - INFO - ActivityStarted: Predict
+2023-04-20 23:06:40.650 - INFO - Running TSI V1.
+2023-04-20 23:06:40.651 - INFO - Starting to apply transforms. Total ram: 16780922880 bytes
+2023-04-20 23:06:40.651 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7560056832 bytes
+2023-04-20 23:06:40.651 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:40.694 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 45)
+2023-04-20 23:06:40.695 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7559540736 bytes
+2023-04-20 23:06:40.695 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:40.753 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 22)
+2023-04-20 23:06:40.753 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7559282688 bytes
+2023-04-20 23:06:40.753 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:40.796 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 3)
+2023-04-20 23:06:40.796 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558766592 bytes
+2023-04-20 23:06:40.796 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:40.840 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 49)
+2023-04-20 23:06:40.840 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558766592 bytes
+2023-04-20 23:06:40.841 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:40.899 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 3)
+2023-04-20 23:06:40.900 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558766592 bytes
+2023-04-20 23:06:40.900 - INFO - CatImputer,StringCastTransformer,LabelEncoderTransformer: Applying transform.
+2023-04-20 23:06:40.910 - INFO - CatImputer,StringCastTransformer,LabelEncoderTransformer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:40.910 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558766592 bytes
+2023-04-20 23:06:40.910 - INFO - CatImputer,StringCastTransformer,LabelEncoderTransformer: Applying transform.
+2023-04-20 23:06:40.919 - INFO - CatImputer,StringCastTransformer,LabelEncoderTransformer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:40.919 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558766592 bytes
+2023-04-20 23:06:40.920 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:40.967 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 5)
+2023-04-20 23:06:40.967 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558508544 bytes
+2023-04-20 23:06:40.967 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:41.009 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 4)
+2023-04-20 23:06:41.010 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558508544 bytes
+2023-04-20 23:06:41.010 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:41.068 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 5)
+2023-04-20 23:06:41.068 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558250496 bytes
+2023-04-20 23:06:41.069 - INFO - CatImputer,StringCastTransformer,LabelEncoderTransformer: Applying transform.
+2023-04-20 23:06:41.086 - INFO - CatImputer,StringCastTransformer,LabelEncoderTransformer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.087 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558250496 bytes
+2023-04-20 23:06:41.087 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:41.130 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 8)
+2023-04-20 23:06:41.130 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558250496 bytes
+2023-04-20 23:06:41.130 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:41.187 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 111)
+2023-04-20 23:06:41.187 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7558250496 bytes
+2023-04-20 23:06:41.188 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:41.232 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 5)
+2023-04-20 23:06:41.232 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.232 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:41.279 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 19)
+2023-04-20 23:06:41.280 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.280 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:41.337 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 10)
+2023-04-20 23:06:41.338 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.338 - INFO - StringCastTransformer,CountVectorizer: Applying transform.
+2023-04-20 23:06:41.384 - INFO - StringCastTransformer,CountVectorizer: Finished applying transform. Shape (18129, 13)
+2023-04-20 23:06:41.385 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.385 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.387 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.387 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.387 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.389 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.389 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.389 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.390 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.391 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.391 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.392 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.392 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.393 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.394 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.394 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.394 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.395 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.396 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.396 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.397 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.397 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.397 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.399 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.399 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.399 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.400 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.401 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.401 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.402 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.402 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.402 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.404 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.404 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.404 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.405 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.406 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.406 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.407 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.407 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.407 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.409 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.409 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.409 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.410 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.411 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.411 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.412 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.412 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.412 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.414 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.414 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.414 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.415 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.415 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.416 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.417 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.417 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.417 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.418 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.419 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.419 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.420 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.420 - INFO - Transform memory estimate: 0 bytes, Current available memory: 7557992448 bytes
+2023-04-20 23:06:41.421 - INFO - SimpleImputer: Applying transform.
+2023-04-20 23:06:41.422 - INFO - SimpleImputer: Finished applying transform. Shape (18129, 1)
+2023-04-20 23:06:41.422 - INFO - Finished applying transforms
+2023-04-20 23:06:41.422 - INFO - Total ram: 16780922880 bytes, Current Available memory: 7557992448 bytes. Low memory threshold: 0.5
+2023-04-20 23:06:41.732 - INFO - ActivityCompleted: Activity=Predict, HowEnded=Success, Duration=1082.22[ms]
+2023-04-20 23:06:41.733 - INFO - ModelTestPhase: y_pred.shape: (18129,)
+2023-04-20 23:06:41.753 - INFO - Saving predicted results.
+2023-04-20 23:06:41.753 - INFO - Single inference output, casting to pandas.
+2023-04-20 23:06:41.753 - INFO - Inference output as pandas.
+2023-04-20 23:06:42.623 - INFO - Uploaded result to ExperimentRun/dcid.469b7ace-8295-4265-bba1-5ad5917c17b2/predictions/predictions.csv
+2023-04-20 23:06:44.898 - INFO - Starting metrics computation for test run.
+2023-04-20 23:06:44.899 - INFO - ModelTestPhase: X_test.shape: (18129, 39)
+2023-04-20 23:06:44.899 - INFO - ModelTestPhase: y_test.shape: (18129,)
+2023-04-20 23:06:44.900 - INFO - ModelTestPhase: y_pred_values.shape: (18129,)
+2023-04-20 23:06:44.900 - INFO - ActivityStarted: ComputeMetrics
+2023-04-20 23:06:44.916 - INFO - Regression metrics debug: {'y_test': (18129,), 'y_pred': (18129,), 'y_test_unique': 328, 'y_pred_unique': 3612, 'y_test_has_negative': False, 'y_pred_has_negative': False, 'min_max_equal': False, 'sample_weight': None}
+2023-04-20 23:06:44.936 - INFO - ActivityCompleted: Activity=ComputeMetrics, HowEnded=Success, Duration=36.4[ms]
+2023-04-20 23:06:45.253 - INFO - Marking run 469b7ace-8295-4265-bba1-5ad5917c17b2 as Completed.
+2023-04-20 23:06:50.882 - INFO - Resetting ExpeirmentStore ID: 22843218391968
+Cleaning up all outstanding Run operations, waiting 300.0 seconds
+7 items cleaning up...
+Cleanup took 0.4547553062438965 seconds
