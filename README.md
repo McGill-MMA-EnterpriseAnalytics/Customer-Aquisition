@@ -1,5 +1,26 @@
 # <font color=#FF0000>Customer-Aquisition Project</font>
 
+## Customer Aquisition Cost Prediction V2
+
+## Project Background - What is this file?
+
+This collection of work is a final group project for Advanced Topics in Information Systems (INSY-695) guided by professor Fatih Nayebi. The project is an extension of our first Machine Learning (ML) complete lifecycle project for Enterprise Data Science & ML Production. We aim to advance the scope of the project by applying best prectices taught in both classes, we are a team of 8 Business Analysts, Data Engineers, Data Scientists, and Product Managers.
+
+The direct link to the data is: https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart
+
+Each role has their own brach where their documentation lives.
+
+
+## Framing the Problem
+
+### *Context*
+
+
+
+
+
+## Customer Aquisition Cost Prediction V1
+
 ## Project Background - What is this file?
 
 This is a Machine Learning (ML) complete lifecycle project for Enterprise Data Science & ML Production (INSY 695). As part of this task we are a team of 7 who are tasked with completing an ML project on a dataset of our choice. There are 10 discrete steps in any data science liefecyle (details in appendix A). **In short this Github Repo is our cumulative work to accomplish a data science project from start to end.**
@@ -10,6 +31,8 @@ Each role has their own brach where their documentation lives.
 
 
 ## Framing the Problem
+
+
 
 ### *Context*
 
