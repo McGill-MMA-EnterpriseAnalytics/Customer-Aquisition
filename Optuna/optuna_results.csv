@@ -1,5 +1,0 @@
-,Model,RMSE,Best Parameters,Total Time (s),Number of Trials
-0,AdaBoost,19.66903867855756,"{'n_estimators': 270, 'learning_rate': 0.010364114380632922, 'max_depth': 10}",1532.3362357616425,50
-1,GradientBoosting,19.085026466681516,"{'n_estimators': 447, 'max_depth': 10, 'learning_rate': 0.011531641031760971, 'subsample': 0.8059654417619785, 'max_features': 0.9436233736604123}",1096.4327502250671,50
-2,LightGBM,19.6140652707598,"{'n_estimators': 282, 'max_depth': 9, 'learning_rate': 0.0832759328944029, 'subsample': 0.8081494947509946, 'colsample_bytree': 0.6794904530965484, 'num_leaves': 144, 'min_child_samples': 6}",87.0603129863739,50
-3,XGBoost,19.55089520837234,"{'n_estimators': 486, 'max_depth': 9, 'learning_rate': 0.04811978249995624, 'subsample': 0.9885251920382132, 'colsample_bytree': 0.7215496126224761}",542.5978338718414,50
