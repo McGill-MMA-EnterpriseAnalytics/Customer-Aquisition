@@ -28,10 +28,14 @@ Due to the recent influx of data collected after expanding into Canada, we need 
 
 
 
-## Team Organization V2
-|   |Data Analyst |Data Scientist |Business Analyst |Project Manager |Data Engineer |
 
 
+
+
+
+
+
+## End V2
 
 ## Customer Aquisition Cost Prediction V1
 
