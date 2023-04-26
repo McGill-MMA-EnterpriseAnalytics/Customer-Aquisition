@@ -13,5 +13,16 @@ Statistical Metrics to be used
 1. Kullback-Leibler (KL) Divergence
 2. Jensen-Shannon (JS) Divergence
 3. Kolmogorov-Smirnov (KS) Test
-4. Mixed-type tabular data drift detection
-5. L-infinity Distance
+
+
+April 25th
+
+Completed:
+1. Split datasets
+2. Applied pre-processing and feature engineering
+3. Test Feature Drift
+4. Test Data Drift
+
+Next steps:
+
+Interpretation and Conclusion
