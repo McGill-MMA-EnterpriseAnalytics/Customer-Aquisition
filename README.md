@@ -15,11 +15,27 @@ Each role has their own brach where their documentation lives.
 
 ### *Context*
 
+We are an internal data science team for a convenience store company. By using the prediction model created in the first project, we identified ideal locations and marketing strategies and expanded into Canada with 300 new stores. This foreign expansion has created new challenges for our data science team. Previously, we were working with a flat clean data file for research. Now, we have a steady influx of new data that we need to be able to accommodate. There is also demand from our CEO for model improvement.
 
+
+### *Problem Statment*
+
+Due to the recent influx of data collected after expanding into Canada, we need to implement cloud infrastructure to handle stream data. Per our CEO's request, we will improve our previous model by using advanced machine learning techniques while focusing on explainability. Our model's main objective is to  **minimize the cost of acquisition of customers (CAC)**.
+
+
+
+
+
+
+
+## Team Organization V2
+|   |Data Analyst |Data Scientist |Business Analyst |Project Manager |Data Engineer |
 
 
 
 ## Customer Aquisition Cost Prediction V1
+
+
 
 ## Project Background - What is this file?
 
@@ -115,8 +131,6 @@ Below is a table that divides our roles and responsabilities.
 |Lead|Priyanka |Raman |Lucie |Julie |Emery |
 |Team|Jeongho <br> Priyanka |Jeongho <br> Bennett <br> Raman |Lucie <br> Bennett <br> Julie <br> Emery |Lucie <br> Julie <br> Emery <br> Raman|Emery <br> Julie|
 
-## Team Organization V2
-|   |Data Analyst |Data Scientist |Business Analyst |Project Manager |Data Engineer |
 |:--|:--|:--|:--|:--|:---|
 ### Market Context
 
