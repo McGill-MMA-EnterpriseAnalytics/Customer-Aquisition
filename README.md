@@ -220,6 +220,15 @@ As our organization recognizes the power of data science and machine learning, w
 
 
 
+
+
+## Our Team
+
+![Team](https://github.com/McGill-MMA-EnterpriseAnalytics/Customer-Aquisition/blob/4be32fe84c508a3fa7ec49d155d7fca16fc04a52/team.png)
+
+
+
+
 ## End V2
 
 ## Customer Aquisition Cost Prediction V1
