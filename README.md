@@ -329,7 +329,6 @@ Below is a table that divides our roles and responsabilities.
 |Lead|Priyanka |Raman |Lucie |Julie |Emery |
 |Team|Jeongho <br> Priyanka |Jeongho <br> Bennett <br> Raman |Lucie <br> Bennett <br> Julie <br> Emery |Lucie <br> Julie <br> Emery <br> Raman|Emery <br> Julie|
 
-|:--|:--|:--|:--|:--|:---|
 ### Market Context
 
 There are 150 thousand convient stroes accross the US. Sales accout for more than $650 billion USD. The conservative estimates of growth for this industry are projected to continue at their 1-3% annual pace, keeping up with and occassionaly passing inflation. Some estimates forsee a steeper growth as more people search for convience ahead of other factors. The convience plays a large role in our short attention span world. Convience also plays a key role in rescessions as consumers gernally use low absolute cost solutions over higher absolute priced itesm, benifiting the convient store. In other the consumer will pick a words a 6 pack of 231 ml pepsi will cost $2.99 at the convient store over a 6 pack of 491ml pepsi from the grocery store for  $4.49 bcasue of the absolute differnce in prcie. The ingenuity and creativty in convient stores  is very active and poisted to increase sales and the industry growth quickly. <br><br>
