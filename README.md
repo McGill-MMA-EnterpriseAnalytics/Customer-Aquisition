@@ -172,9 +172,52 @@ We conclude that the end-to-end TPOT model performed the best with a RMSE value 
 
 #### *SHAP*
 
+<img src="https://github.com/McGill-MMA-EnterpriseAnalytics/Customer-Aquisition/blob/f87c95c407f056294e5d91d4840d5f6798e64856/Screen%20Shot%202023-04-27%20at%2010.30.06%20AM.png" alt="SHAP" width="50%">
 
 
 #### *LIME*
+<img src="https://github.com/McGill-MMA-EnterpriseAnalytics/Customer-Aquisition/blob/f87c95c407f056294e5d91d4840d5f6798e64856/Screen%20Shot%202023-04-27%20at%2010.30.42%20AM.png" alt="LIME" width="50%">
+
+
+
+
+## Cloud Process
+
+Cloud infrastructure allows for easier scalability of models which helped us scale upward as we expand into Canada
+
+### Azure
+
+As our organization recognizes the power of data science and machine learning, we can improve efficiency, enhance customer experiences, and predict costs. To achieve these goals in business-critical use cases, we need a consistent and reliable pattern for:
+
+* Tracking experiments
+* Reproducing results
+* Deploying machine learning models into production.
+
+<img src="https://github.com/McGill-MMA-EnterpriseAnalytics/Customer-Aquisition/blob/bcaca03ead7c4d899d3a31b5203407a223eecfe1/Azurepipeline.png" alt="Pipeline" width="80%">
+
+
+<img src="https://github.com/McGill-MMA-EnterpriseAnalytics/Customer-Aquisition/blob/e24e1d996b296950d0fa683d47981f340c45d5ec/Azurearch.png" alt="Architecture" width="80%">
+
+
+
+
+### MLFlow with Databricks
+
+- Central repository to log and track experiments/results/artifacts.
+- Logs metrics, parameters, code versions.
+- Supports multiple languages.
+- Enables packaging and sharing code with dependencies.
+- Simplifies reproducing and running code in different environments.
+- Supports running code in various ways.
+- Provides a standard format to package and deploy models.
+- Supports various machine learning frameworks and libraries.
+- Allows you to deploy models to production environments easily.
+
+<img src="https://github.com/McGill-MMA-EnterpriseAnalytics/Customer-Aquisition/blob/bcaca03ead7c4d899d3a31b5203407a223eecfe1/mlflow1_2.png" alt="Architecture" width="50%">
+
+
+![Architecture](https://github.com/McGill-MMA-EnterpriseAnalytics/Customer-Aquisition/blob/bcaca03ead7c4d899d3a31b5203407a223eecfe1/mlflow3_7.png)
+
 
 
 ## End V2
